@@ -1,0 +1,2 @@
+# detikcom
+Detikcom Technical Test
